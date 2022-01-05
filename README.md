@@ -6,6 +6,7 @@ I'm Cauã Rinaldi from Brazil. I'm currently in my final year of high school, bu
  - ☁️ C# and ASP.NET Core
  - ☕ Java
  - 💻 HTML, CSS and TS
+ - <> Angular
  - 🐍 Python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cau777&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -15,4 +16,4 @@ I'm Cauã Rinaldi from Brazil. I'm currently in my final year of high school, bu
  - "Java Developer Track" on JetBrains Academy (> 100h)
  - "Python Core Track" on JetBrains Academy (> 100h)
  - "Become an Angular Developer Path" on Educative (143h)
- - "TypeScript for Front-End Developers" on Educative (IN PROGRESS)
+ - "TypeScript for Front-End Developers Path" on Educative (IN PROGRESS)
