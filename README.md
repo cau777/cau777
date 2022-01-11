@@ -16,4 +16,4 @@ I'm Cauã Rinaldi from Brazil. I'm currently in my final year of high school, bu
  - "Java Developer Track" on JetBrains Academy (> 100h)
  - "Python Core Track" on JetBrains Academy (> 100h)
  - "Become an Angular Developer Path" on Educative (143h)
- - "TypeScript for Front-End Developers Path" on Educative (IN PROGRESS)
+ - "TypeScript for Front-End Developers Path" on Educative (177 lessons)
