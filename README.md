@@ -15,5 +15,6 @@ I'm Cauã Rinaldi from Brazil. I'm currently in my final year of high school, bu
  - "Full Speed Python" on Educative (≅ 9h)
  - "Java Developer Track" on JetBrains Academy (> 100h)
  - "Python Core Track" on JetBrains Academy (> 100h)
- - "Become an Angular Developer Path" on Educative (143h)
+ - "Become an Angular Developer Path" on Educative (≅ 140h)
  - "TypeScript for Front-End Developers Path" on Educative (177 lessons)
+ - "Make Your Own Neural Network in Python" on Educative (≅ 6h)
