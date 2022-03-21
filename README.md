@@ -19,3 +19,4 @@ I'm Cauã Rinaldi from Brazil. I'm currently in my final year of high school, bu
  - "TypeScript for Front-End Developers Path" on Educative (177 lessons)
  - "Make Your Own Neural Network in Python" on Educative (≅ 6h)
  - "Web Security and Access Management: JWT, OAuth2 & OpenId Connect" on Educative (≅ 5h)
+ - "Fundamentals of DevOps Path" on Educative (Network fundamentals, Git and GitHub, Docker for Developers)
