@@ -9,7 +9,7 @@ I'm Cauã Rinaldi from Brazil. I'm currently in my final year of high school, bu
  - <> Angular
  - 🐍 Python
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cau777&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=cau777)](https://profile.codersrank.io/user/cau777)
 
 #### Courses:
  - "Full Speed Python" on Educative (≅ 9h)
