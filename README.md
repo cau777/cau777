@@ -23,3 +23,4 @@ I'm Cauã Rinaldi from Brazil. I'm currently in my final year of high school, bu
  - "Fundamentals of DevOps Path" on Educative (Network fundamentals, Git and GitHub, Docker for Developers)
  - "Modern CSS with Tailwind" on Educative (≅ 5h)
  - "The Ultimate Guide to Rust Programming" on Educative (≅ 8h)
+ - "Practical Security: Simple Practices for Defending Your Systems" on Educative (≅ 9h)
