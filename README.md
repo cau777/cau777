@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Cauã Rinaldi from Brazil. I'm currently studying Software Engineering at Unijuí, and I'm always learning technologies and doing courses in my free time. Besides, I love challenging myself with different projects. My favorite areas are frontend and backend development.
+I'm Cauã Rinaldi from Brazil. I'm currently working as a full-stack developer at [Aerial](https://aerialops.io/), and I'm always learning technologies and doing courses in my free time. Besides, I love challenging myself with different projects. My favorite areas are frontend and backend development.
 
 #### Skills:
  - ☁️ C# and ASP.NET Core
