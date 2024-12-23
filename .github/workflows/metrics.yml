@@ -39,8 +39,8 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: programming
           plugin_languages_colors: github
-          plugin_languages_ignored: json, Jupyter Notebook
-          plugin_languages_limit: 6
+          plugin_languages_ignored: json, Jupyter Notebook, HTML
+          plugin_languages_limit: 8
           plugin_languages_other: yes
           plugin_languages_recent_categories: programming
           plugin_languages_recent_days: 14
